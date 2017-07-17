@@ -1,0 +1,22 @@
+{
+  "name": "flashcardgenerator",
+  "version": "1.0.0",
+  "description": "Week 11 Homework - UCF Coding Bootcamp",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadieb/Flashcard-Generator.git"
+  },
+  "author": "Cadie Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadieb/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/cadieb/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0"
+  }
+}
